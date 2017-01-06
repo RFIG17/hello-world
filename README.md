@@ -1,2 +1,3 @@
 # hello-world
-practica1
+
+Aprendiendo a usar GitHub xD
